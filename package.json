@@ -1,0 +1,15 @@
+{
+  "name": "tripmaker",
+  "version": "1.0.0",
+  "description": "Its dynamic & will make your trip fun!",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AK",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
